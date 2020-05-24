@@ -6,11 +6,12 @@ description: A developer website
 
 # User settings
 username: Nicolas Battaglia
-user_description: My only purpose right now -> Gisela's ass <span class="love">❤</span>
+user_description: Atypical software engineer. Love for guitar, then backend techs. Always curious.
 user_title: Software Engineer
 email: nicobatt@hotmail.com
 github_username:  https://github.com/zk182
 linkedin_username:  https://www.linkedin.com/in/nicobattaglia
+medium_username:  https://medium.com/@nicolasbattaglia_22555
 
 # Google-analytics
 google-analytics:
